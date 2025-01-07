@@ -22,3 +22,4 @@ Excel Project Dataset.xlsx Dashboard:
 ![image](https://github.com/user-attachments/assets/2a178b71-4fad-41c9-955e-77e1f15ce7da)
 
 coffeeOrdersData.xlsx Dashboard:
+![image](https://github.com/user-attachments/assets/c1bc272e-d77f-440f-b68c-940f66be6eb1)
