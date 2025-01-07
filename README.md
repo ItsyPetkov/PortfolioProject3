@@ -18,3 +18,6 @@ UPPER(), LOWER(), PROPER(), INDEX()
 
 6.Data Cleaning in Excel
 
+Excel Project Dataset.xlsx Dashboard:
+![image](https://github.com/user-attachments/assets/2a178b71-4fad-41c9-955e-77e1f15ce7da)
+
