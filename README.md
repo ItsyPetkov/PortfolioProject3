@@ -1,6 +1,6 @@
 # PortfolioProject - Excel procedure pipeline
 
-This is a project aiming to develop a pipeline of data pre-processing and analysis within Excel.
+This is a project aiming to develop a pipeline of data pre-processing and analysis within Excel. It consists of two different dataset and thus two different dashboards are created (one is begginer-friendly and the other demonstrates more advanced concepts)
 
 Topics that are covered in this exploration include:
 
