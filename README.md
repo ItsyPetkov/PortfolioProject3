@@ -1,7 +1,34 @@
 # Coffee Sales Intelligence Dashboard – Product, Market & Performance Optimization Study
 
+This portfolio project is based on coffee sales data provided by a local retailer. Exploratory Data Analysis (EDA) is performed on transactional data to isolate and understand specific trends and patterns that support strategic decision-making, revenue optimisation, and sustainable business growth. This project is produced in its entirety solely using MS Excel.
+
 ## Target User: Business Owner/Potential Stakeholders
+
 This analysis is designed for people looking to enter the coffee retail market or to expand their business by investigating sales data. It provides actionable insights such as buying behaviour, high-volume vs. high-value comparison, loyalty program effectiveness, price-volume tradeoffs, growth trends and seasonal coffee paterns.
+
+## Understanding the Data
+
+The data for this project consists of three sperate spreadsheets: Orders, Customers, Products
+
+<!--Orders Table:                         
+Product ID      Text,                 
+Coffee Type     Text,                 
+Roast Type      Text,                
+Size            Number,               
+Unit Price      Number,               
+Price per 100g  Number,               
+Profit          Number               
+                                      
+Customer Table:                                    
+Customer ID      Text,
+Customer Name    Text,
+Email            Text,
+Phone Number     Text,
+Address Line 1   Text,
+City             Text,
+Country          Text,
+Postcode         Text,
+Loyalty Card     Text-->
 
 ## Data Analysis Framework
 
