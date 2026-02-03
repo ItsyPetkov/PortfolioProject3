@@ -1,6 +1,11 @@
-# PortfolioProject - Excel procedure pipeline
+# Coffee Sales Intelligence Dashboard – Product, Market & Performance Optimization Study
 
-This is a project aiming to develop a pipeline of data pre-processing and analysis within Excel. It consists of two different dataset and thus two different dashboards are created (one is begginer-friendly and the other demonstrates more advanced concepts)
+## Target User: Business Owner/Potential Stakeholders
+This analysis is designed for people looking to enter the coffee retail market or to expand their business by investigating sales data. It provides actionable insights such as buying behaviour, high-volume vs. high-value comparison, loyalty program effectiveness, price-volume tradeoffs, growth trends and seasonal coffee paterns.
+
+## Data Analysis Framework
+
+<!-- This is a project aiming to develop a pipeline of data pre-processing and analysis within Excel. It consists of two different dataset and thus two different dashboards are created (one is begginer-friendly and the other demonstrates more advanced concepts)
 
 Topics that are covered in this exploration include:
 
@@ -22,4 +27,4 @@ Excel Project Dataset.xlsx Dashboard:
 ![image](https://github.com/user-attachments/assets/2a178b71-4fad-41c9-955e-77e1f15ce7da)
 
 coffeeOrdersData.xlsx Dashboard:
-![image](https://github.com/user-attachments/assets/c1bc272e-d77f-440f-b68c-940f66be6eb1)
+![image](https://github.com/user-attachments/assets/c1bc272e-d77f-440f-b68c-940f66be6eb1) -->
