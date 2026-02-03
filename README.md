@@ -10,25 +10,57 @@ This analysis is designed for people looking to enter the coffee retail market o
 
 The data for this project consists of three sperate spreadsheets: Orders, Customers, Products
 
-<!--Orders Table:                         
-Product ID      Text,                 
-Coffee Type     Text,                 
-Roast Type      Text,                
-Size            Number,               
-Unit Price      Number,               
-Price per 100g  Number,               
-Profit          Number               
-                                      
-Customer Table:                                    
-Customer ID      Text,
-Customer Name    Text,
-Email            Text,
-Phone Number     Text,
-Address Line 1   Text,
-City             Text,
-Country          Text,
-Postcode         Text,
-Loyalty Card     Text-->
+<table>
+<tr>
+<td valign="top">
+
+**Orders Table**
+
+| Column Name | Data Type |
+|-------------|------------|
+| Order ID    | Text       |
+| Order Date  | Date       |
+| Customer ID | Text       |
+| Product ID  | Text       |
+| Quantity    | Number     |
+
+</td>
+<td valign="top">
+
+**Customers Table**
+
+| Column Name   | Data Type |
+|---------------|------------|
+| Customer ID   | Text       |
+| Customer Name | Text       |
+| Email         | Text       |
+| Phone Number  | Text       |
+| Address Line 1| Text       |
+| City          | Text       |
+| Country       | Text       |
+| Postcode      | Text       |
+| Loyalty Card  | Text       |
+
+</td>
+<td valign="top">
+
+**Products Table**
+
+| Column Name   | Data Type |
+|---------------|------------|
+| Product ID    | Text       |
+| Coffee Type   | Text       |
+| Roast Type    | Text       |
+| Size          | Number     |
+| Unit Price    | Number     |
+| Price per 100g| Number     |
+| Profit        | Number     |
+
+</td>
+</tr>
+</table>
+
+The data obtained from the spreadsheets presented above is processed into a single spreadsheet called "Working Sheet". In fact, this is the sheet used for all of the visuals and the analysis conducted in this project. For additional details, please read the information provided in the Data Analysis Framework section.
 
 ## Data Analysis Framework
 
