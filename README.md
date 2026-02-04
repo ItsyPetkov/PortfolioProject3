@@ -162,6 +162,8 @@ Based on this analysis, I recommend the following actions:
 * Track conversion rates between frequency tiers and average order value uplift as core loyalty Key Performance Indicators (KPI).
 
 #### Question 4 Analysis Output
+																	
+<img width="1240" height="701" alt="image" src="https://github.com/user-attachments/assets/44bdefae-f750-49e1-a31d-6736c86cd9a3" />
 
 Key Insights:
 
@@ -181,6 +183,8 @@ Based on this analysis, I recommend the following actions:
 * Leverage smaller packs as acquisition tools, focusing on sampling, onboarding, and upsell pathways into larger formats.
 
 #### Question 5 Analysis Output
+																	
+<img width="1240" height="961" alt="image" src="https://github.com/user-attachments/assets/e8a4860c-7efb-4202-a8a8-71d12f0a497f" />
 
 Key Insights:
 
