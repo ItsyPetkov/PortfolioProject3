@@ -74,7 +74,7 @@ The contents of the "Working Sheet" were processed through the following set of 
 * Duplicate checking and removal
 * Converting the spreadsheet range into a table
 
-Next stages involve data visualisation by producing dynamic, interactive dashboards in MS Excel and data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of the last step is available in the GitHub repo under 'Stakeholder report.pptx'.
+Next stages involve: 1) data visualisation by producing dynamic, interactive dashboards in MS Excel using PIVOT TABLES/CHARTS, SLICERS, TIMELINES and CONDITIONAL FORMATTING ; and 2) data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of both steps is available in the GitHub repository under 'coffeeOrdersData.xlsx' and 'Stakeholder report.pptx', respectively.
 
 ## Analytical Focus & Key Business Questions
 
