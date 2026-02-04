@@ -100,7 +100,6 @@ This section presents a concise overview of the patterns and trends revealed thr
 																		
 <img width="1240" height="681" alt="image" src="https://github.com/user-attachments/assets/d39d1ed3-c413-4f8d-ba92-6ba72242ed09" />
 
-
 Key Insights:
 
 * Mainstream coffees drive the highest unit volumes but generate 30–40% lower revenue per unit compared to premium and specialty ones. In contrast, premium coffee types deliver 1.3–1.6× higher revenue per unit, confirming that volume leadership does not translate directly into revenue leadership.
@@ -119,6 +118,8 @@ Based on this analysis, I recommend the following actions:
 * Localise product mix by country to reflect regional demand patterns
 
 #### Question 2 Analysis Output
+														
+<img width="1469" height="934" alt="image" src="https://github.com/user-attachments/assets/8cf97800-44d4-4166-baee-858536f48970" />
 
 Key Insights: 
 
