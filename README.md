@@ -8,6 +8,11 @@ This portfolio project is based on coffee sales data provided by a local retaile
 - [Data Analysis Framework](#data-analysis-framework)
 - [Analytical Focus & Key Business Questions](#analytical-focus--key-business-questions)
 - [Key Insights & Strategic Action Recommendations](#key-insights--strategic-action-recommendations)
+  	- [Question 1 Analysis Output](#question-1-analysis-output)
+  	- [Question 2 Analysis Output](#question-2-analysis-output)
+  	- [Question 3 Analysis Output](#question-3-analysis-output)
+  	- [Question 4 Analysis Output](#question-4-analysis-output)
+  	- [Question 5 Analysis Output](#question-5-analysis-output)
 
 
 ## Target User: Business Owner/Potential Stakeholders
