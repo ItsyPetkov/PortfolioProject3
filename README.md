@@ -113,7 +113,7 @@ This section presents a concise overview of the patterns and trends revealed thr
 																		
 <img width="1240" height="681" alt="image" src="https://github.com/user-attachments/assets/d39d1ed3-c413-4f8d-ba92-6ba72242ed09" />
 
-Key Insights:
+**Key Insights:**
 
 * Mainstream coffees drive the highest unit volumes but generate 30–40% lower revenue per unit compared to premium and specialty ones. In contrast, premium coffee types deliver 1.3–1.6× higher revenue per unit, confirming that volume leadership does not translate directly into revenue leadership.
 
@@ -123,7 +123,7 @@ Key Insights:
 
 * Country-level patterns show up to 50%+ volume concentration in a single coffee type in some markets, while others display more balanced product distribution across categories. This confirms that localized product, pricing, and marketing strategies can improve performance versus standardised global approaches.
 
-Based on this analysis, I recommend the following actions:
+**Based on this analysis, I recommend the following actions:**
 
 * Reassess pricing strategy for high-volume Stock Keeping Units (SKU)
 * Promote higher-margin products
@@ -134,7 +134,7 @@ Based on this analysis, I recommend the following actions:
 														
 <img width="1469" height="934" alt="image" src="https://github.com/user-attachments/assets/8cf97800-44d4-4166-baee-858536f48970" />
 
-Key Insights: 
+**Key Insights:** 
 
 * Customer value is highly concentrated: A small segment of high-value customers contributes a disproportionate share of total revenue, with ~25–45% higher average order values than other segments.
 
@@ -144,7 +144,7 @@ Key Insights:
 
 * Mid-value customers show upsell potential: Medium-value customers exhibit moderate order sizes, suggesting a clear opportunity to trade them up into higher-value baskets.
 
-Based on this analysis, I recommend the following actions:
+**Based on this analysis, I recommend the following actions:**
 
 * Launch targeted retention campaigns for low-frequency customers (e.g., loyalty rewards, reorder reminders, personalised discounts).
 * Develop premium bundles centred on dark roast and large pack sizes to appeal to high-value customers.
@@ -156,7 +156,7 @@ Based on this analysis, I recommend the following actions:
 																	
 <img width="1469" height="641" alt="image" src="https://github.com/user-attachments/assets/3d9f3f89-a4a6-436f-8e36-de54b12486c2" />
 
-Key Insights:
+**Key Insights:**
 
 * Revenue is highly concentrated, with <10% of customers driving a disproportionate share of spend.
 
@@ -166,7 +166,7 @@ Key Insights:
 
 * Increased engagement is strongly associated with higher average order values and premium product adoption.
 
-Based on this analysis, I recommend the following actions:
+**Based on this analysis, I recommend the following actions:**
 
 * Introduce tiered loyalty rewards to incentive higher purchase frequency and spending thresholds.
 * Deploy personalised product recommendations to encourage trade-up into premium coffee types.
@@ -178,7 +178,7 @@ Based on this analysis, I recommend the following actions:
 																	
 <img width="1240" height="701" alt="image" src="https://github.com/user-attachments/assets/44bdefae-f750-49e1-a31d-6736c86cd9a3" />
 
-Key Insights:
+**Key Insights:**
 
 * Mid-range priced products drive the highest sales volume (~945 units), showing strong mass-market demand.
 
@@ -188,7 +188,7 @@ Key Insights:
 
 * High-price, high-volume products generate the highest total revenue (~$20K+), making them the most commercially impactful category.
 
-Based on this analysis, I recommend the following actions:
+**Based on this analysis, I recommend the following actions:**
 
 * Prioritise high-price, high-volume Stock Keeping Units (SKU) through targeted promotions, preferred shelf placement, and availability optimisation.
 * Expand bulk pack incentives (e.g., subscriptions, loyalty multipliers, bundle discounts) to reinforce repeat purchasing.
@@ -199,7 +199,7 @@ Based on this analysis, I recommend the following actions:
 																	
 <img width="1240" height="961" alt="image" src="https://github.com/user-attachments/assets/e8a4860c-7efb-4202-a8a8-71d12f0a497f" />
 
-Key Insights:
+**Key Insights:**
 
 * Sales are highly cyclical, peaking in second quarter and Spring/Summer and weakening in fourth quarter and Winter.
 
@@ -209,47 +209,9 @@ Key Insights:
 
 * Excelsa exhibits strong upside volatility, making it a high-impact lever for growth acceleration, while Liberica shows higher sales volatility, implying greater exposure to operational and supply risks.
 
-Based on this analysis, I recommend the following actions:
+**Based on this analysis, I recommend the following actions:**
 
 * Implement seasonal demand forecasting models to align production, inventory, and logistics with second quarter and Spring/Summer peaks. 
 * Deploy targeted fourth quarter recovery strategies, including pricing bundles, limited-edition winter blends, and loyalty promotions to stabilize off-peak revenue.
 * Shift product mix dynamically by season, prioritizing lighter and medium roasts in warmer months and dark roasts in colder periods.
 * Conduct root-cause analysis of the 2022 decline (pricing, supply constraints, channel performance, or macro impacts) and embed risk mitigation controls.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
