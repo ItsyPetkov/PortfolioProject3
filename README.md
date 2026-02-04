@@ -96,7 +96,10 @@ List of business-related enquiries and their relevance:
 
 This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings. 
 
-#### Question 1 Analysis Output
+#### Question 1 Analysis Output					
+																		
+<img width="1240" height="681" alt="image" src="https://github.com/user-attachments/assets/d39d1ed3-c413-4f8d-ba92-6ba72242ed09" />
+
 
 Key Insights:
 
