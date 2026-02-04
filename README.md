@@ -2,6 +2,14 @@
 
 This portfolio project is based on coffee sales data provided by a local retailer. Exploratory Data Analysis (EDA) is performed on transactional data to isolate and understand specific trends and patterns that support strategic decision-making, revenue optimisation, and sustainable business growth. This project is produced in its entirety solely using MS Excel.
 
+## Table of Contents
+- [Target User](#target-user-business-ownerpotential-stakeholders)
+- [Understanding the Data](#understanding-the-data)
+- [Data Analysis Framework](#data-analysis-framework)
+- [Analytical Focus & Key Business Questions](#analytical-focus--key-business-questions)
+- [Key Insights & Strategic Action Recommendations](#key-insights--strategic-action-recommendations)
+
+
 ## Target User: Business Owner/Potential Stakeholders
 
 This analysis is designed for people looking to enter the coffee retail market or to expand their business by investigating sales data. It provides actionable insights such as buying behaviour, high-volume vs. high-value comparison, loyalty program effectiveness, price-volume tradeoffs, growth trends and seasonal coffee paterns.
