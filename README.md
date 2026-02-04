@@ -74,7 +74,7 @@ The contents of the "Working Sheet" were processed through the following set of 
 * Duplicate checking and removal
 * Converting the spreadsheet range into a table
 
-Next stages involve data visualisation by producing dynamic, interactive dashboards in MS Excel and data storytelling by producing a comprehensive analysis report using MS PowerPoint. The output of the last step is available in the GitHub repo under 'Stakeholder report.pptx'.
+Next stages involve data visualisation by producing dynamic, interactive dashboards in MS Excel and data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of the last step is available in the GitHub repo under 'Stakeholder report.pptx'.
 
 ## Analytical Focus & Key Business Questions
 
@@ -82,15 +82,19 @@ This section contains questions important to the business owner. According to th
 
 List of business-related enquiries and their relevance:
 
-* *Which coffee products generate the most revenue and volume? How does this vary across countries?* => Helps decide where to double down (best-selling Stock Keeping Units (SKU) by market) and whether certain coffee types should be promoted, expanded, or retired in specific countries.
+1. *Which coffee products generate the most revenue and volume? How does this vary across countries?* => Helps decide where to double down (best-selling Stock Keeping Units (SKU) by market) and whether certain coffee types should be promoted, expanded, or retired in specific countries.
 
-* *Who are the most valuable customers, and what purchasing patterns distinguish them?* => Identifies high-value customers to target with retention, loyalty perks, or premium offerings.
+2. *Who are the most valuable customers, and what purchasing patterns distinguish them?* => Identifies high-value customers to target with retention, loyalty perks, or premium offerings.
 
-* *Does the loyalty card program meaningfully increase customer spend or purchase frequency?* => Provides a direct evaluation of the Return Of Investment (ROI) metric associated with the loyalty program.
+3. *Does the loyalty card program meaningfully increase customer spend or purchase frequency?* => Provides a direct evaluation of the Return Of Investment (ROI) metric associated with the loyalty program.
 
-* *How do pricing, package size, and unit combinations influence sales performance?* => Supports decisions around pricing strategy, bundle sizing, and margin optimization.
+4. *How do pricing, package size, and unit combinations influence sales performance?* => Supports decisions around pricing strategy, bundle sizing, and margin optimization.
 
-* *What are the key sales trends over time, and are there any seasonal patterns?* => Enables better demand forecasting, inventory planning, and campaign timing.
+5. *What are the key sales trends over time, and are there any seasonal patterns?* => Enables better demand forecasting, inventory planning, and campaign timing.
+
+## Key Insights & Strategic Action Recommendations
+
+This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
 
 <!-- This is a project aiming to develop a pipeline of data pre-processing and analysis within Excel. It consists of two different dataset and thus two different dashboards are created (one is begginer-friendly and the other demonstrates more advanced concepts)
 
