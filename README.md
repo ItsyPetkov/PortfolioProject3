@@ -74,7 +74,7 @@ The contents of the "Working Sheet" were processed through the following set of 
 * Duplicate checking and removal
 * Converting the spreadsheet range into a table
 
-Next stages involve: 1) data visualisation by producing dynamic, interactive dashboards in MS Excel using PIVOT TABLES/CHARTS, SLICERS, TIMELINES and CONDITIONAL FORMATTING ; and 2) data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of both steps is available in the GitHub repository under 'coffeeOrdersData.xlsx' and 'Stakeholder report.pptx', respectively.
+Next stages involve: 1) data visualisation by producing dynamic, interactive dashboards in MS Excel using PIVOT TABLES/CHARTS, SLICERS, TIMELINES and CONDITIONAL FORMATTING; and 2) data storytelling by delivering a comprehensive analysis report using MS PowerPoint. The output of both steps is available in the GitHub repository under 'coffeeOrdersData.xlsx' and 'Stakeholder report.pptx', respectively.
 
 ## Analytical Focus & Key Business Questions
 
@@ -94,28 +94,139 @@ List of business-related enquiries and their relevance:
 
 ## Key Insights & Strategic Action Recommendations
 
-This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings.
+This section presents a concise overview of the patterns and trends revealed through Exploratory Data Analysis (EDA) in relation to each of the questions posed above, followed by recommendations derived from the findings. 
 
-<!-- This is a project aiming to develop a pipeline of data pre-processing and analysis within Excel. It consists of two different dataset and thus two different dashboards are created (one is begginer-friendly and the other demonstrates more advanced concepts)
+#### Question 1 Analysis Output
 
-Topics that are covered in this exploration include:
+Key Insights:
 
-1.Pivot Tables
+* Mainstream coffees drive the highest unit volumes but generate 30–40% lower revenue per unit compared to premium and specialty ones. In contrast, premium coffee types deliver 1.3–1.6× higher revenue per unit, confirming that volume leadership does not translate directly into revenue leadership.
 
-2.Functions and formulae -> MIN(), MAX(), SUM(), POW(), SQRT(), AVG(), IF(), IFS(), LEN(), LEFT(), RIGHT(), TEXT(), TRIM(),
-CONCATENATE(), SUBSTITUTE(), SUMIF(), SUMIFS(), COUNT(), COUNTIF(), COUNTSIFS(), DAYS(), MONTHS(), YEARS(), NETWORKDAYS(),
-UPPER(), LOWER(), PROPER(), INDEX()
+* A small subset of products accounts for most of the revenue, with leading products contributing ~30–40% of category revenue in several markets. This indicates a moderate reliance on a narrow product mix, increasing exposure to demand or supply-side volatility.
 
-3.XLOOKUP and VLOOKUP
+* High-volume, low-revenue products represent the largest opportunity for margin expansion, as selectively shifting customers toward premium coffee or higher-value pack sizes could lift revenue per unit by 30–60% without requiring incremental volume growth.
 
-4.Conditional Formatting
+* Country-level patterns show up to 50%+ volume concentration in a single coffee type in some markets, while others display more balanced product distribution across categories. This confirms that localized product, pricing, and marketing strategies can improve performance versus standardised global approaches.
 
-5.Charts
+Based on this analysis, I recommend the following actions:
 
-6.Data Cleaning in Excel
+* Reassess pricing strategy for high-volume Stock Keeping Units (SKU)
+* Promote higher-margin products
+* Introduce bundle offers or upsell strategies
+* Localise product mix by country to reflect regional demand patterns
 
-Excel Project Dataset.xlsx Dashboard:
-![image](https://github.com/user-attachments/assets/2a178b71-4fad-41c9-955e-77e1f15ce7da)
+#### Question 2 Analysis Output
 
-coffeeOrdersData.xlsx Dashboard:
-![image](https://github.com/user-attachments/assets/c1bc272e-d77f-440f-b68c-940f66be6eb1) -->
+Key Insights: 
+
+* Customer value is highly concentrated: A small segment of high-value customers contributes a disproportionate share of total revenue, with ~25–45% higher average order values than other segments.
+
+* Low purchase frequency dominates: Over 90% of customers purchase fewer than two times, indicating weak retention and limited repeat purchasing behaviour.
+
+* High-value customers prefer premium products: Strong preference for larger pack sizes (2.5 kg) and dark roasts, especially Liberica, which generates the highest revenue per product-customer combination.
+
+* Mid-value customers show upsell potential: Medium-value customers exhibit moderate order sizes, suggesting a clear opportunity to trade them up into higher-value baskets.
+
+Based on this analysis, I recommend the following actions:
+
+* Launch targeted retention campaigns for low-frequency customers (e.g., loyalty rewards, reorder reminders, personalised discounts).
+* Develop premium bundles centred on dark roast and large pack sizes to appeal to high-value customers.
+* Implement upsell strategies for medium-value customers, such as volume discounts or subscription plans.
+* Personalise marketing and offers using customer segmentation based on order value and purchase frequency.
+* Track customer migration between segments to measure the impact of retention and upselling initiatives.
+
+#### Question 3 Analysis Output
+
+Key Insights:
+
+* Revenue is highly concentrated, with <10% of customers driving a disproportionate share of spend.
+
+* Over 65% of customers spend less than $50, indicating the possibility for a significant upside in customer development.
+
+* High-frequency customers show a clear preference for premium products, particularly Liberica and Excelsa.
+
+* Increased engagement is strongly associated with higher average order values and premium product adoption.
+
+Based on this analysis, I recommend the following actions:
+
+* Introduce tiered loyalty rewards to incentive higher purchase frequency and spending thresholds.
+* Deploy personalised product recommendations to encourage trade-up into premium coffee types.
+* Design targeted campaigns for low- and mid-frequency customers to stimulate repeat purchases.
+* Offer exclusive benefits and early access to new products for top-tier customers to protect retention.
+* Track conversion rates between frequency tiers and average order value uplift as core loyalty Key Performance Indicators (KPI).
+
+#### Question 4 Analysis Output
+
+Key Insights:
+
+* Mid-range priced products drive the highest sales volume (~945 units), showing strong mass-market demand.
+
+* Premium-priced products achieve higher unit margins (~$15/unit) but lower volumes (~850 units), indicating selective, value-driven demand.
+
+* Large pack sizes (2.5 kg) dominate revenue contribution (~$24K, over 40% of total sales), confirming bulk purchasing as the primary revenue engine.
+
+* High-price, high-volume products generate the highest total revenue (~$20K+), making them the most commercially impactful category.
+
+Based on this analysis, I recommend the following actions:
+
+* Prioritise high-price, high-volume Stock Keeping Units (SKU) through targeted promotions, preferred shelf placement, and availability optimisation.
+* Expand bulk pack incentives (e.g., subscriptions, loyalty multipliers, bundle discounts) to reinforce repeat purchasing.
+* Refine pricing strategy by product tier, protecting premium margins while using mid-tier products to drive scale.
+* Leverage smaller packs as acquisition tools, focusing on sampling, onboarding, and upsell pathways into larger formats.
+
+#### Question 5 Analysis Output
+
+Key Insights:
+
+* Sales are highly cyclical, peaking in second quarter and Spring/Summer and weakening in fourth quarter and Winter.
+
+* The ~50% revenue collapse in 2022 represents a material business risk and likely reflects macroeconomic, pricing, or supply-chain disruption rather than product mix changes.
+
+* Medium and light roasts drive warm-season growth, while dark roasts provide seasonal stability in colder months.
+
+* Excelsa exhibits strong upside volatility, making it a high-impact lever for growth acceleration, while Liberica shows higher sales volatility, implying greater exposure to operational and supply risks.
+
+Based on this analysis, I recommend the following actions:
+
+* Implement seasonal demand forecasting models to align production, inventory, and logistics with second quarter and Spring/Summer peaks. 
+* Deploy targeted fourth quarter recovery strategies, including pricing bundles, limited-edition winter blends, and loyalty promotions to stabilize off-peak revenue.
+* Shift product mix dynamically by season, prioritizing lighter and medium roasts in warmer months and dark roasts in colder periods.
+* Conduct root-cause analysis of the 2022 decline (pricing, supply constraints, channel performance, or macro impacts) and embed risk mitigation controls.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
