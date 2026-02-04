@@ -140,6 +140,8 @@ Based on this analysis, I recommend the following actions:
 * Track customer migration between segments to measure the impact of retention and upselling initiatives.
 
 #### Question 3 Analysis Output
+																	
+<img width="1469" height="641" alt="image" src="https://github.com/user-attachments/assets/3d9f3f89-a4a6-436f-8e36-de54b12486c2" />
 
 Key Insights:
 
